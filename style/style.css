@@ -1,0 +1,251 @@
+
+p{
+  color: 	rgb(112,112,112);
+}
+
+.alignLeft{
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: left;
+}
+
+.alignRight{
+  padding-right: 40px;
+  padding-left: 40px;
+  text-align: right;
+}
+
+
+.tableMarginLeftBGC{
+  margin-left: 100px;
+  margin-right: 100px;
+  background-color: rgba(233,204,203,0.2);
+  border: 2px solid black;
+  border-color: rgba(233,204,203,0.5);
+}
+
+.tableMarginLeft{
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.tableBGColor{
+  background-color: rgba(233,204,203,0.2);
+  border: 2px solid black;
+  border-color: rgba(233,204,203,0.5);
+  padding-left : 20px;
+  padding-right: 20px;
+}
+
+.tableMarginRightBGC{
+  margin-right: 100px;
+  background-color: rgba(240,234,214, 0.4);
+  border: 2px solid black;
+}
+
+.tableMarginRight{
+  margin-right: 100px;
+}
+
+body{
+  width: 500px auto;
+  height: 2000px auto;
+  border-top: 50px solid transparent;
+  border-bottom: 80px solid transparent;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+
+  padding: 50px;
+  margin-bottom: 300px auto;
+
+  font-family: 'Pacifico', cursive;
+  color: #444444;
+  font-size: 25px;
+  text-align: center;
+
+  background: -webkit-linear-gradient(
+      top, #e9cccb, #fff, #fff,  #fff, #fff, #fff, #C89392);
+}
+
+#customborderEEE{
+  background: -webkit-linear-gradient(
+      top, #e9cccb, #fff, #fff, #fff, #fff, #fff, #fff, #fff,#fff,#fff,#fff,#fff,#fff,#fff,#fff,#fff,#fff, #C89392);
+}
+
+.nav{
+  list-style-type: none;
+  margin: 40px 40px 10px 40px;
+  padding: 5px 0 5px 0;
+  text-align: center;
+  font-size: 16px;
+  font-family: 'Pacifico', cursive;
+}
+
+.nav li{
+  display:inline;
+  padding: 40px;
+}
+
+.nav a{
+  color : rgb(88,88,88);
+  text-decoration: none;
+}
+
+.hrNav{
+  height: 2px;
+  width: 600px auto;
+  border: 0;
+  margin-top: 5px;
+  background:rgba(88, 88, 88, 0.35);
+}
+
+h1{
+  background: -webkit-linear-gradient(bottom, #F29492, #114357);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: 'Pacifico', cursive;
+}
+
+.hrBottom{
+  height: 2px;
+  width: 600px auto;
+  border: 0;
+  margin-top: 100px;
+  background:rgba(88, 88, 88, 0.35);
+}
+
+.textColor{
+  color : rgba(88,88,88,0.8);
+}
+
+.h3Font{
+  font-family: 'Pacifico', cursive;
+  color: rgb(80,80,80);
+}
+
+.h3Color{
+  font-family: 'Pacifico', cursive;
+  color: rgb(80,80,80);
+  text-align: center;
+}
+
+.bodyFont{
+  font-family: 'Zilla Slab', serif;
+  font-size: 20px;
+  color: rgba(88,88,88,0.7);
+}
+
+.projectFont{
+  font-family: 'Zilla Slab', serif;
+  font-size: 18px;
+}
+
+.projectFontTitle{
+font-family: 'Zilla Slab', serif; text-decoration: underline;
+}
+
+#picPadding{
+  padding: 15px 0 15px 50px;
+}
+
+#pFontPadding{
+  font-family: 'Zilla Slab', serif;
+  font-size: 20px;
+  padding: 0px 48px 0px 15px;
+}
+
+#navPageLinks a{
+  color: #666464;
+}
+
+#navPageHover a:hover{
+  color: rgba(112, 112, 112, 0.8);
+}
+
+.secTwoTitle{
+  font-family: 'Pacifico', cursive;
+  font-size: 25px;
+  color: rgb(80,80,80);
+  padding-top: 20px;
+  padding-left: 10px;
+}
+
+.secTwoInfo{
+  color: rgba(88,88,88,0.7);
+  list-style-type: none;
+  text-align: center;
+  padding-left: 10px;
+}
+
+.secThreeTitle{
+  font-family: 'Pacifico', cursive;
+  font-size: 25px;
+  color: rgb(80,80,80);
+  padding-top: 20px;
+  padding-left: 40px;
+}
+
+.secThreeInfo{
+  color: rgba(88,88,88,0.7);
+  list-style-type: none;
+  text-align: center;
+}
+
+.tableWidth{
+  width: 400px;
+  padding-top: 30px;
+}
+
+.picLeftWork{
+  margin-top: 20px;
+  padding-top: 80px;
+}
+
+.picRightWork{
+  padding-left: 5px;
+  margin-top: 20px;
+}
+
+.infoLeftWork{
+  padding-right: 240px;
+}
+
+.titleLeftWork{
+  text-align: center;
+  color: rgb(80,80,80);
+  font-size: 20px;
+  padding-top: 50px;
+  font-size: 25px;
+}
+
+
+
+.addPadding{
+  padding-bottom: 100px;
+}
+
+
+.introTextLeft{
+  text-align: left;
+  padding-left: 20px;
+  margin-top: 25px;
+}
+
+.introTextRight{
+  text-align: right;
+  padding-right: 20px;
+}
+
+progress {
+  -webkit-appearance: none;
+}
+
+::-webkit-progress-bar {
+  border-radius:10px;
+  background-color: rgba(200, 147, 146, 0.35);
+}
+
+::-webkit-progress-value{
+  border-radius: 10px;
+  background-color: rgba(200, 160, 146, 0.5);
+}
