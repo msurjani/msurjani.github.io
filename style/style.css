@@ -1,7 +1,10 @@
-
-.newP{
+footer{
   text-align: right;
-  font-size: 5px;
+  font-size: 18px;
+}
+
+.afooter{
+  color : rgb(88,88,88);
 }
 
 p{
